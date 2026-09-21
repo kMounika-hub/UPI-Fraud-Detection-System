@@ -46,7 +46,7 @@ upi_fraud_detection/
   - `Amount (INR)`
   - `Timestamp`
   - `Status` (Success / Failed)
-![Transaction Status Distribution](transaction_status_distribution.png)
+
 
 ## 📦 Requirements
 
